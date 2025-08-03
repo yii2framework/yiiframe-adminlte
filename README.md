@@ -2,7 +2,7 @@ Yii2 AdminLTE Asset Bundle
 =======================
 Adminlte Background Administration framework resource file for yiiframe
 
-[![Latest Stable Version](http://poser.pugx.org/hjp1011/yii2-adminlte/v)](https://packagist.org/packages/hjp1011/yii2-adminlte) [![Total Downloads](http://poser.pugx.org/hjp1011/yii2-adminlte/downloads)](https://packagist.org/packages/hjp1011/yii2-adminlte) [![Latest Unstable Version](http://poser.pugx.org/hjp1011/yii2-adminlte/v/unstable)](https://packagist.org/packages/hjp1011/yii2-adminlte) [![License](http://poser.pugx.org/hjp1011/yii2-adminlte/license)](https://packagist.org/packages/hjp1011/yii2-adminlte) [![PHP Version Require](http://poser.pugx.org/hjp1011/yii2-adminlte/require/php)](https://packagist.org/packages/hjp1011/yii2-adminlte)
+[![Latest Stable Version](http://poser.pugx.org/yii2framework/yiiframe-adminlte/v)](https://packagist.org/packages/yii2framework/yiiframe-adminlte) [![Total Downloads](http://poser.pugx.org/yii2framework/yiiframe-adminlte/downloads)](https://packagist.org/packages/yii2framework/yiiframe-adminlte) [![Latest Unstable Version](http://poser.pugx.org/yii2framework/yiiframe-adminlte/v/unstable)](https://packagist.org/packages/yii2framework/yiiframe-adminlte) [![License](http://poser.pugx.org/yii2framework/yiiframe-adminlte/license)](https://packagist.org/packages/yii2framework/yiiframe-adminlte) [![PHP Version Require](http://poser.pugx.org/yii2framework/yiiframe-adminlte/require/php)](https://packagist.org/packages/yii2framework/yiiframe-adminlte)
 
 Installation
 ------------
@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist hjp1011/yii2-adminlte "*"
+php composer.phar require --prefer-dist yii2framework/yiiframe-adminlte "*"
 ```
 
 or add
 
 ```
-"hjp1011/yii2-adminlte": "*"
+"yii2framework/yiiframe-adminlte": "*"
 ```
 
 to the require section of your `composer.json` file.

@@ -1,16 +1,16 @@
 {
-    "name": "hjp1011/yii2-adminlte",
+    "name": "yii2framework/yiiframe-adminlte",
     "description": "Adminlte Background Administration framework resource file for yiiframe",
     "type": "yii2-extension",
     "keywords": ["yii2","extension", "yiiframe", "yiiframework"],
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/hjp1011/yii2-adminlte/issues",
-        "source": "https://github.com/hjp1011/yii2-adminlte"
+        "issues": "https://github.com/yii2framework/yiiframe-adminlte/issues",
+        "source": "https://github.com/yii2framework/yiiframe-adminlte"
     },
     "authors": [
         {
-            "name": "hjp1011"
+            "name": "yii2framework"
         }
     ],
     "require": {
